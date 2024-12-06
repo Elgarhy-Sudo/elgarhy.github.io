@@ -9,7 +9,11 @@
 ## Education
 
 **[Ph.D, PLasma Physics]**  
-[Al-Azhar University], [2016r]  
+[Al-Azhar University], [2016]  
+**[MS.c, PLasma Physics]**  
+[Al-Azhar University], [2010]  
+**[BS.c, Physics]**  
+[Al-Azhar University], [2005]  
 
 - Key course: [Course Name]
 - Achievement: [Detail]
